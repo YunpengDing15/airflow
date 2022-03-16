@@ -1,0 +1,1 @@
+this is a demo for Airflow to copy data from S3 to Snowflake and then do analysis work by DBT  
